@@ -1,8 +1,8 @@
 # JORDLE
 
 Cheating at Wordle, in J. Written as J exercise. Not the greatest algorithm, but
-it solves in 3.5 guesses or so. It attempts to provide a guess that gets as
-close to halving the remaining wordlist per round as possible.
+it solves in 3.5 guesses or so. The goal is to provide a guess that gets close to
+halving the remaining wordlist per round.
 
 To play, open `world.ijs` in a J console and run `play''`.
 
