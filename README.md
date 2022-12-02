@@ -8,8 +8,9 @@ To play, open `world.ijs` in a J console and run `play''`.
 
 <details>
 <summary>Sample game</summary>
+
 ```
-▸ jcon wordle.ijs
+> jcon wordle.ijs
    play''
 Guess OATER and input colors (B/Y/G):
 BBYYB
